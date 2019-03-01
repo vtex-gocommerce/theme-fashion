@@ -13,7 +13,7 @@
   display: none;
 }
 
-.topMenuContainer:global(.bw1) {
+.topMenuCollapsible:global(.bw1) {
   border-width: 1px;
 }
 
