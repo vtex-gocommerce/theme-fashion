@@ -1,3 +1,7 @@
-# theme-base
+# theme-fashion
 
-Gocommerce Base Theme
+Gocommerce Fashion Theme
+
+**Account:** gc-xkd5171
+
+**URL:** https://theme-fashion.gocommerce.com/
