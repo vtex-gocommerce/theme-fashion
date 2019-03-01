@@ -231,7 +231,7 @@
         "itemsPerPage": 4,
         "scroll": "BY_PAGE",
         "arrows": true,
-        "titleText": "Preferidos dos Gatinhos",
+        "titleText": "Mais Vendidos",
         "summary": {
           "displayBuyButton": "displayButtonHover",
           "isOneClickBuy": true,
