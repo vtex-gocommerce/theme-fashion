@@ -30,9 +30,9 @@
     "blocks": ["login-content#default"]
   },
   "header.full": {
-    "blocks": ["login", "minicart", "logo", "search-bar", "telemarketing", "category-menu"],
+    "blocks": ["login", "minicart", "logo", "search-bar", "menu-link", "telemarketing", "category-menu"],
     "props": {
-      "logoUrl": "https://static.gocommerce.com/gc-muo9042/assets/gocommerce/png/logo.png"
+      "logoUrl": "https://static.gocommerce.com/gc-xkd5171/assets/gocommerce/png/logo.png"
     }
   },
   "login": {
@@ -203,7 +203,7 @@
         },
         {
           "__editorItemTitle": "Endereço",
-          "storeInformation": "CNPJ: 30.355.840/0001-38 - USE 33 COMERCIO DE VESTUARIO LTDA"
+          "storeInformation": "CNPJ n.º 01.002.333/0001-00  | Centro Empresarial Botafogo - Praia de Botafogo, 300 - 2º Andar - Botafogo, Rio de Janeiro - RJ, 22250-040- empresa do grupo VTEX."
         }
       ]
     }
@@ -214,7 +214,7 @@
       "autoplaySpeed": 4,
       "banners": [
         {
-          "image": "https://static.gocommerce.com/gc-muo9042/assets/gocommerce/jpg/banner-provisorio___9da646932335e14fb309d8bc56b1c93a.jpg"
+          "image": "https://static.gocommerce.com/gc-xkd5171/assets/gocommerce/jpg/banner-provisorio___9da646932335e14fb309d8bc56b1c93a.jpg"
         }
       ],
       "height": 440,
@@ -231,7 +231,7 @@
         "itemsPerPage": 4,
         "scroll": "BY_PAGE",
         "arrows": true,
-        "titleText": "Preferidos dos Gatinhos",
+        "titleText": "Top Sellers",
         "summary": {
           "displayBuyButton": "displayButtonHover",
           "isOneClickBuy": true,
