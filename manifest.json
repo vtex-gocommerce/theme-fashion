@@ -1,31 +1,16 @@
 {
-  "vendor": "gc-muo9042",
-  "name": "theme-fashion",
-  "version": "0.5.0",
-  "title": "Gocommerce Base Theme",
-  "description": "",
-  "mustUpdateAt": "2019-10-24",
+  "vendor": "gocommerce",
+  "name": "fashion-theme",
+  "version": "0.1.9",
   "builders": {
-    "styles": "1.x",
-    "store": "0.x",
-    "react": "3.x",
-    "messages": "1.x"
+    "pages": "0.x",
+    "react": "2.x"
   },
-  "dependencies": {
-    "vtex.store-graphql": "2.x",
-    "vtex.store": "2.x",
-    "vtex.styleguide": "9.x",
-    "vtex.product-summary": "2.x",
-    "vtex.search-result": "3.x",
-    "vtex.product-details": "1.x",
-    "vtex.store-components": "3.x",
-    "vtex.breadcrumb": "1.x",
-    "vtex.menu": "2.x",
-    "vtex.store-header": "2.x",
-    "vtex.login": "2.x",
-    "vtex.category-menu": "2.x",
-    "vtex.shelf": "1.x",
-    "vtex.store-footer": "2.x",
-    "vtex.minicart": "2.x"
+  "mustUpdateAt": "2018-09-05",
+  "categories": ["theme"],
+  "registries": ["smartcheckout"],
+  "settingsSchema": {},
+  "scripts": {
+    "postreleasy": "vtex publish --verbose"
   }
 }

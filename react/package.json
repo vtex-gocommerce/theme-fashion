@@ -1,11 +1,6 @@
 {
-  "name": "gocommerce.fashion-theme",
-  "version": "0.1.0",
-  "dependencies": {},
-  "description": "",
-  "main": "FashionTheme.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "vtex.pizzahut",
+  "dependencies": {
+    "js-cookie": "^2.2.0"
   }
 }
