@@ -19,6 +19,7 @@
 .itemContainer > a {
   color: #000;
   font-weight: 600;
+  text-transform: uppercase;
 }
 
 .itemContainer a:global(.b--action-primary) {
@@ -27,6 +28,7 @@
 
 .firstLevelLink {
   font-weight: 500;
+  text-transform: uppercase;
 }
 
 .secondLevelLink {
