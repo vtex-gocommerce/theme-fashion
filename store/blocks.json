@@ -1,6 +1,6 @@
 {
   "store.home": {
-    "blocks": ["carousel#home", "shelf#home"]
+    "blocks": ["carousel#home", "shelf#home", "shelf#homeReleaseDateDesc"]
   },
   "store.product": {
     "blocks": ["product-details#default", "product-kit", "shelf.relatedProducts"]
@@ -199,6 +199,36 @@
         "scroll": "BY_PAGE",
         "arrows": true,
         "titleText": "Mais Vendidos",
+        "summary": {
+          "displayBuyButton": "displayButtonHover",
+          "isOneClickBuy": true,
+          "showBadge": true,
+          "badgeText": "OFF",
+          "buyButtonText": "",
+          "showCollections": false,
+          "showListPrice": true,
+          "showLabels": true,
+          "showInstallments": true,
+          "showSavings": false,
+          "name": {
+            "showBrandName": true,
+            "showSku": false,
+            "showProductReference": false
+          }
+        }
+      }
+    }
+  },
+  "shelf#homeReleaseDateDesc": {
+    "blocks": ["product-summary"],
+    "props": {
+      "orderBy": "OrderByReleaseDateDESC",
+      "productList": {
+        "maxItems": 10,
+        "itemsPerPage": 4,
+        "scroll": "BY_PAGE",
+        "arrows": true,
+        "titleText": "Mais Recentes",
         "summary": {
           "displayBuyButton": "displayButtonHover",
           "isOneClickBuy": true,
