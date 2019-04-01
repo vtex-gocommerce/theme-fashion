@@ -156,11 +156,6 @@
           "__editorItemTitle": "Crédito",
           "title": "Crédito",
           "paymentTypes": ["MasterCard", "Visa", "Diners Club"]
-        },
-        {
-          "__editorItemTitle": "Débito",
-          "title": "Débito",
-          "paymentTypes": ["MasterCard", "Visa", "Diners Club"]
         }
       ],
       "storeInformations": [
