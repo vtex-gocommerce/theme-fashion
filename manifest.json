@@ -1,15 +1,14 @@
 {
   "vendor": "gc-muo9042",
   "name": "theme-fashion",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "title": "Gocommerce Base Theme",
   "description": "",
   "mustUpdateAt": "2019-10-24",
   "builders": {
     "styles": "1.x",
     "store": "0.x",
-    "react": "3.x",
-    "messages": "1.x"
+    "react": "3.x"
   },
   "dependencies": {
     "gocommerce.institutional-page": "1.x",
