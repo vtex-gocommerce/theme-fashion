@@ -29,6 +29,17 @@
   "store.login": {
     "blocks": ["login-content#default"]
   },
+  "store.orderplaced": {
+    "blocks": [
+      "order-placed"
+    ]
+  },
+  "header": {
+    "blocks": ["login", "minicart", "logo", "search-bar", "telemarketing", "category-menu"],
+    "props": {
+      "logoUrl": "https://static.gocommerce.com/gc-muo9042/assets/gocommerce/png/logo.png"
+    }
+  },
   "header.full": {
     "blocks": ["login", "minicart", "logo", "search-bar", "telemarketing", "category-menu"],
     "props": {
