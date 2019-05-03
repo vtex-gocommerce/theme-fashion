@@ -35,9 +35,9 @@
     ]
   },
   "header": {
-    "blocks": ["login", "minicart", "logo", "search-bar", "telemarketing", "category-menu"],
+    "blocks": ["login", "minicart", "logo", "search-bar", "menu-link", "telemarketing", "category-menu"],
     "props": {
-      "logoUrl": "https://static.gocommerce.com/gc-muo9042/assets/gocommerce/png/logo.png"
+      "logoUrl": "https://static.gocommerce.com/{{account}}/assets/gocommerce/png/logo.png"
     }
   },
   "header.full": {
